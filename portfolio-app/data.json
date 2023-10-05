@@ -1,0 +1,23 @@
+{
+    "general": {
+        "firstName": "Abdullah",
+        "lastName": "Khan",
+        "email": "abdullahkhanwork@gmail.com",
+        "phone": "+92 336 5744052",
+        "about": "I am a Software Developer"
+    },
+    "social": {
+        "linkedin": {
+            "username": "iabdullahkhanofficial",
+            "url": "https://www.linkedin.com/in/iabdullahkhanofficial"
+        },
+        "instagram": {
+            "username": "iabdullahkhanofficial",
+            "url": "https://www.linkedin.com/in/iabdullahkhanofficial"
+        },
+        "facebook": {
+            "username": "iabdullahkhanofficial",
+            "url": "https://www.linkedin.com/in/iabdullahkhanofficial"
+        }
+    }
+}
