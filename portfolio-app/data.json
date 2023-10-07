@@ -7,7 +7,8 @@
         "location": "Islamabad, Pakistan",
         "website": "abdullah-khan.in",
         "about": "I am a Software Developer",
-        "birthday": "1 January"
+        "birthday": "1 January",
+        "experience": 4
     },
     "social": {
         "linkedin": {
@@ -25,6 +26,21 @@
     },
     "experience": [
         {
+            "title": "Software Engineer",
+            "organisation": "Phebsoft Pvt. Ltd.",
+            "location":"Rawalpindi Pakistan",
+            "date": "Sep 2022 - Present",
+            "type": "Hybrid",
+            "description": [
+                "Collaborating in a dynamic team to develop complex web applications, utilizing PHP, Laravel, and Vue.js.",
+                "Leading code reviews and ensuring adherence to coding standards, while utilizing CI/CD pipelines for quality assurance.",
+                "Employing Docker for efficient deployment processes and maintaining robust development environments.",
+                "Actively participating in agile ceremonies, including daily standups and sprint retrospectives for effective project management.",
+                "Integrating third-party APIs to enhance product features and user experiences.",
+                "Engaging in high-level project discussions and providing innovative solutions for technical challenges."
+            ]
+        },
+        {
             "title": "Software Developer",
             "organisation": "ANS Group Limited",
             "location":"Manchester, United Kingdom",
@@ -37,6 +53,21 @@
                 "Actively participating in agile ceremonies, including daily standups and sprint retrospectives for effective project management.",
                 "Integrating third-party APIs to enhance product features and user experiences.",
                 "Engaging in high-level project discussions and providing innovative solutions for technical challenges."
+            ]
+        },
+        {
+            "title": "Full Stack Developer",
+            "organisation": "Geeks Select (Pvt) Ltd.",
+            "location":"Rawalpindi, Pakistan",
+            "date": "Mar 2018 - Jul 2022",
+            "type": "Office Based",
+            "description": [
+                "Independently designing and delivering end-to-end solutions for diverse client projects using PHP, Laravel, and Vue.js.",
+                "Managing projects efficiently with tools like Trello and clear communication via Slack.",
+                "Establishing collaborative channels with mobile developers for seamless backend API integration.",
+                "Utilizing Git and GitHub for version control to ensure organized codebase management.",
+                "Translating client requirements into innovative technical solutions, emphasizing code quality and timely delivery.",
+                "Contributing to design discussions and maintaining high coding standards through thorough code reviews."
             ]
         }
     ],
