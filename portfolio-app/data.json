@@ -23,17 +23,34 @@
             "url": "https://www.linkedin.com/in/iabdullahkhanofficial"
         }
     },
+    "experience": [
+        {
+            "title": "Software Developer",
+            "organisation": "ANS Group Limited",
+            "location":"Manchester, United Kingdom",
+            "date": "Sep 2022 - Sep 2023",
+            "type": "Remote Based",
+            "description": [
+                "Collaborating in a dynamic team to develop complex web applications, utilizing PHP, Laravel, and Vue.js.",
+                "Leading code reviews and ensuring adherence to coding standards, while utilizing CI/CD pipelines for quality assurance.",
+                "Employing Docker for efficient deployment processes and maintaining robust development environments.",
+                "Actively participating in agile ceremonies, including daily standups and sprint retrospectives for effective project management.",
+                "Integrating third-party APIs to enhance product features and user experiences.",
+                "Engaging in high-level project discussions and providing innovative solutions for technical challenges."
+            ]
+        }
+    ],
     "education": [
         {
             "title": "BS in Information Technology",
             "university": "PMAS Arid Agriculture University",
+            "location":"Rawalpindi, Pakistan",
             "score": {
                 "grade": "A",
                 "achieved": "3.5",
                 "total": "4.0"
             },
             "date": "Oct 2017 - July 2021",
-            "location":"Rawalpindi, Pakistan",
             "description": "Completed a Bachelor of Science in Information Technology, specializing in software development and programming. Acquired in-depth knowledge of development methodologies, software engineering principles, and programming languages to excel as a software developer."
         }
     ]
