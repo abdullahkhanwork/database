@@ -21,5 +21,19 @@
             "username": "iabdullahkhanofficial",
             "url": "https://www.linkedin.com/in/iabdullahkhanofficial"
         }
-    }
+    },
+    "education": [
+        {
+            "title": "BS in Information Technology",
+            "university": "PMAS Arid Agriculture University",
+            "score": {
+                "grade": "A",
+                "achieved": "3.5",
+                "total": "4.0"
+            },
+            "date": "Oct 2017 - July 2021",
+            "location":"Rawalpindi, Pakistan",
+            "description": "Completed a Bachelor of Science in Information Technology, specializing in software development and programming. Acquired in-depth knowledge of development methodologies, software engineering principles, and programming languages to excel as a software developer."
+        }
+    ]
 }
